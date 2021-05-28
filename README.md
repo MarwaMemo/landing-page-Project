@@ -22,9 +22,9 @@
     
 ***usefull websites :
     -www.w3schools.com
-    -stackoverflow.com
-    -developer.mozilla.org
-    -nfpdiscussions.udacity.com
+    -https://stackoverflow.com
+    -https://developer.mozilla.org
+    -https://nfpdiscussions.udacity.com
     
 
 ***by:
